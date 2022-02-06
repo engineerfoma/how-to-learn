@@ -80,7 +80,7 @@
 } /* header */
 
 /* Секция description*/
-.description {
+.two-columns {
   display: flex;
   justify-content: space-between;
   width: 80%;
@@ -259,7 +259,7 @@
   right: -210px;
   width: 877px;
   height: 877px;
-  background-image: url('/images/kaufman-triangle.svg');
+  background-image: url('../images/kaufman-triangle.svg');
   background-size: 877px 877px;
   z-index: -1;
   padding: 0;
@@ -314,11 +314,10 @@
 .footer__column-links { /* список ("8" на макете)*/
   margin: 0 0 16px 0;
   padding: 0;
-
+  list-style-type: none;
 }
 
 .footer__column-link { /* элемент списка ("10" на макете)*/
-  list-style: none;
   text-decoration: none;
   color: white;
   line-height: 30px;
