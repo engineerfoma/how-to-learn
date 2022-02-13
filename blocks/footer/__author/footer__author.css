@@ -1,0 +1,8 @@
+.footer__author { /* "6" на макете */
+  align-self: flex-start;
+  color: white;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+  margin: 18px 0;
+}

@@ -1,0 +1,5 @@
+.footer__column-links { /* список ("8" на макете)*/
+  margin: 0 0 16px 0;
+  padding: 0;
+  list-style-type: none;
+}
