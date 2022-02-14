@@ -3,5 +3,6 @@
   flex-direction: column;
   position: relative;
   min-height: 890px;
+  background: url('../../images/feynman.png') no-repeat left 0% bottom 0% / 867px 637px;
   background-color: #f2f2f2;
 }
